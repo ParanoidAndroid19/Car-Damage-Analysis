@@ -1,19 +1,19 @@
 # Car-Damage-Analysis
 The car damage analysis model is developed using tensorflow and keras. The model can classify car damage based on location & severity. It classifies the camera images of car damage into categories such as front-minor, rear-major, side-moderate, etc. 
 
-# Requirements
+## Requirements
 
 1. Python 3.6
 2. Tensorflow
 3. Open CV
 
-# Run
+## Run
 
 1. After installing all the dependencies run loaded_data.py
 2. Add directory path in demo.py and run it.
 3. Choose a car damage image to classify and run trial.py
 
-# Working
+## Working
 
 Test image:
 
